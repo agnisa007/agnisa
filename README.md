@@ -1,4 +1,4 @@
-6# Website Data Barang
+# Website Data Barang
 
 Website ini berfungsi sebagai platform untuk mengelola data barang, termasuk transaksi penerimaan dan pengeluaran.
 
