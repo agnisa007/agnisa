@@ -1,4 +1,4 @@
-# Website Data Barang
+6# Website Data Barang
 
 Website ini berfungsi sebagai platform untuk mengelola data barang, termasuk transaksi penerimaan dan pengeluaran.
 
@@ -34,15 +34,16 @@ Website ini berfungsi sebagai platform untuk mengelola data barang, termasuk tra
   - Menambah, mengubah, dan menghapus data petugas.
   - Mengekspor data petugas.
 
-# Akun Default untuk Pengujian
+### Akun Default untuk Pengujian
 
 ## Admin
-- **Email:** admin@gmail.com
-- **Password:** admin123
+- **Email:** agnisa
+- **Password:** agnisa
 
 ## Petugas
-- **Email:** petugas@gmail.com
-- **Password:** petugas123
+- **Email:** agnisa_ci
+- **Password:** agnisa_ci9
+
 
 
 ### Modul Transaksi Penerimaan
