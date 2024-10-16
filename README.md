@@ -34,6 +34,17 @@ Website ini berfungsi sebagai platform untuk mengelola data barang, termasuk tra
   - Menambah, mengubah, dan menghapus data petugas.
   - Mengekspor data petugas.
 
+# Akun Default untuk Pengujian
+
+## Admin
+- **Email:** admin@gmail.com
+- **Password:** admin123
+
+## Petugas
+- **Email:** petugas@gmail.com
+- **Password:** petugas123
+
+
 ### Modul Transaksi Penerimaan
 - **Fitur**:
   - Melihat riwayat transaksi penerimaan barang.
@@ -50,6 +61,9 @@ Website ini berfungsi sebagai platform untuk mengelola data barang, termasuk tra
 - **Fitur**:
   - Melihat dan menghapus akun (untuk admin).
   - Pengguna dapat melihat informasi akun mereka.
+
+#### Template
+- Boostrap 4
 
 ## Role
 
